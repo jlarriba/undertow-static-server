@@ -33,7 +33,7 @@
                         <configuration>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.everis.monitor.App</mainClass>
+                                    <mainClass>com.jlarriba.uss.App</mainClass>
                                 </transformer>
                             </transformers>
                             <filters>
