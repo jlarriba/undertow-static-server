@@ -1,4 +1,4 @@
-package com.jlarriba.uss;
+package es.jlarriba.uss;
 
 import io.undertow.Handlers;
 import io.undertow.Undertow;
